@@ -1,3 +1,4 @@
 tmp/*
 tmp/todo.txt
 tmp/toto.txt
+*.inpyb
