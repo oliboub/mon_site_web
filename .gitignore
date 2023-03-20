@@ -1,4 +1,3 @@
 tmp/*
-tmp/todo.txt
-tmp/toto.txt
-*.tmp
+*.xml
+*.txt
